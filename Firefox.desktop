@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Firefox
-Exec=/home/software/firefox/Browser/firefox -p -no-remote
-Comment=
-Terminal=false
-Icon=/home/software/firefox/Browser/browser/chrome/icons/default/default64.png
-Type=Application
-Name[zh_CN]=Firefox
